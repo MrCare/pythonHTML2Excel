@@ -5,3 +5,4 @@ totalHTML
 build
 dist
 *.spec
+upx-4.2.1-win64
